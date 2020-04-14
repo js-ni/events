@@ -15,3 +15,5 @@ En caso de falta/inacistencia/cancelar:
 5. Por ningun motivo se tolerara intimidación, acoso, abuso, discriminación, comunicación despectiva o degradante. 
 6. No contenido pornografico en stickers, memes, imagenes, audios, links, u otros.
 7. Se permite publicar ofertas de trabajo relacionadas con JavaScript.
+
+Gracias!
