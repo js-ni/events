@@ -8,4 +8,4 @@ Si deseas proponer un evento o saber cuando tendremos próximos eventos sentite 
 
 Enlaces de interes:
 
- - [Políticas](/POLITICS.md)
+ - [Políticas](/GROUP_RULES.md)
