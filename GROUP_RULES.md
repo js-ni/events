@@ -37,3 +37,23 @@ La duración del panel tiene un mínimo de una hora (1h) y un máximo de dos hor
 
 ### Observador
 1. Debe hacer una pregunta a un panelista específico, no debe hacer preguntas que sean respondidas por todos los panelistas.
+
+# Revertir penalizaciones (strike's)
+
+**Strike por faltar a un compromiso/rol a un evento**
+`Son todos aquellos que acumulen strike's justificado`
+
+- Crear contenido de 3-5min para la comunidad (artículo, video, dinamica, código)
+- Aportar económicamente como sponsor para un evento validado y votado por los organizadores de la comunidad y negociado con el que comete la falta. (Estipular lista de apollo: souvenirs, transporte, equipo, licencias, refrigerio, etc..)
+
+**Baneado de las redes sociales**
+`Incumplimiento de las políticas de grupos`
+
+- Aportar económicamente como sponsor para un evento validado y votado por los organizadores de la comunidad y negociado con el que comete la falta. (Estipular lista de apollo: souvenirs, transporte, equipo, licencias, refrigerio, etc..)
+- Patrocinar un libro en digital, curso o certificado por cualquier sitio pluralsight, Udemy o platzy. Promoviendo asi el crecimiento educativo. Asi pueda este ser compartido a la comunidad.
+- Completar una tarea pendiente por la comunidad para un evento o evento general, que aporte significativamente a la comunidad
+
+**Acumulacion de strikes**
+`Son todos aquellos que lleguen a acumular el limite de strikes permitidos`
+
+- Sponsor de una licencia en un periodo estipulado por la comunidad de cualquier herramienta necesario para el funcionamiento de la misma comunidad
