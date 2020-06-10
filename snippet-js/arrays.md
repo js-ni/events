@@ -1,6 +1,7 @@
 #### Lista de los Temas para videos de SnippetJs
 
-- [ ] Array
+- [ ] [![#110](https://img.myrandomwebs.com/github/issues-state/js-ni/events/110.svg)](https://github.com/js-ni/events/issues/110)
+
 
 ## Propiedades
 
@@ -8,7 +9,7 @@
 - [ ] Array.prototype[@@unscopables]
 
 ## Métodos
-- [ ] Array.from()
+- [ ] [![#109](https://img.myrandomwebs.com/github/issues-state/js-ni/events/109.svg)](https://github.com/js-ni/events/issues/109)
 - [ ] Array.isArray()
 - [ ] Array.of()
 - [ ] Array.prototype.concat()
