@@ -1,6 +1,6 @@
 https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array
 
-- [ ] [![#110](https://img.myrandomwebs.com/github/issues-state/js-ni/events/110.svg)](https://github.com/js-ni/events/issues/110)
+- [x] [![#110](https://img.myrandomwebs.com/github/issues-state/js-ni/events/110.svg)](https://github.com/js-ni/events/issues/110)
 
 
 ## Propiedades
